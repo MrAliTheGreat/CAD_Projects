@@ -1,0 +1,265 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vAdder_8
+Z1 !s100 28Y0@iCWDDkgeZEPYjNE43
+Z2 I72eXj9?lC:fjPQn?3:mO23
+Z3 Vg_kd<J?9_BljUX8TQiam;3
+Z4 dC:\Users\rasou\Desktop\CAD\Homeworks\HW1 Phase 2
+Z5 w1605787241
+Z6 8C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Adder_8.v
+Z7 FC:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Adder_8.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Adder_8.v|
+Z10 o-work work -O0
+Z11 n@adder_8
+Z12 !s108 1606674020.304000
+Z13 !s107 C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Adder_8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCircuit
+!i10b 1
+Z14 !s100 GXffGPzD<d_;Dic=jFU3f0
+Z15 IgXcOJg4og]N?6L[:3L<@^3
+Z16 VK;DAO[97k=I28=IA4@fW_0
+R4
+Z17 w1605801829
+Z18 8C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Circuit.v
+Z19 FC:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Circuit.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1606674021.490000
+!s107 C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Circuit.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Circuit.v|
+!s101 -O0
+R10
+Z21 n@circuit
+vController
+Z22 !s100 akPSNQ]zM^R^^Yb@iRhjn2
+Z23 IFQoL<9YcWo8mJcm18^bmg3
+Z24 VH9zj:RlER6CjR]:TB9HWj0
+R4
+Z25 w1605802820
+Z26 8C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Controller.v
+Z27 FC:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Controller.v
+L0 3
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Controller.v|
+R10
+Z29 n@controller
+Z30 !s108 1606674020.952000
+Z31 !s107 C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDatapath
+Z32 !s100 :_D_EejD_1cEm6McH@;[M1
+Z33 IHEC_SUkTC@^]Q;jNSoQOM2
+Z34 VcZc<:VL4GXC46am0aX3h;2
+R4
+Z35 w1605801834
+Z36 8C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Datapath.v
+Z37 FC:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Datapath.v
+L0 3
+R8
+r1
+31
+Z38 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Datapath.v|
+R10
+Z39 n@datapath
+Z40 !s108 1606674020.737000
+Z41 !s107 C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFullAdder
+Z42 !s100 L@laf4]zdSV^T[@ng_jXQ1
+Z43 IX`i701I76mca[@F9OMVM;1
+Z44 VW6ZZ:hJb]m_Z>hKNk5ja@0
+R4
+Z45 w1605782514
+Z46 8C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/FullAdder_1.v
+Z47 FC:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/FullAdder_1.v
+L0 3
+R8
+r1
+31
+Z48 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/FullAdder_1.v|
+R10
+Z49 n@full@adder
+Z50 !s108 1606674020.415000
+Z51 !s107 C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/FullAdder_1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMultiplier_2
+Z52 !s100 EPGoXlZC`LG@zi5?zFWa[2
+Z53 IV;nKFaC8FTORVAf9h@_l:2
+Z54 VUV]9:UbHhXjnbBY>`24PC1
+R4
+Z55 w1605803375
+Z56 8C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Multiplier_2.v
+Z57 FC:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Multiplier_2.v
+L0 3
+R8
+r1
+31
+Z58 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Multiplier_2.v|
+R10
+Z59 n@multiplier_2
+Z60 !s108 1606674020.206000
+Z61 !s107 C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Multiplier_2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX_2to1
+Z62 !s100 `F`L;Egc=IZ0^HWA:z]Vk1
+Z63 IkA<[l1DW0UZ<;HnKdH:`=3
+Z64 Vd2FieRXX61efdagS1gl]90
+R4
+Z65 w1605781339
+Z66 8C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Mux_1.v
+Z67 FC:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Mux_1.v
+L0 3
+R8
+r1
+31
+Z68 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Mux_1.v|
+R10
+Z69 n@m@u@x_2to1
+Z70 !s108 1606674020.090000
+Z71 !s107 C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Mux_1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegister_1
+Z72 !s100 :39z9TlT6HfzDB_PQI]Ag1
+Z73 I2YgL2z0>QV85gPN3hSk571
+Z74 VM;G_knLhPU:DCWe67bN<`0
+R4
+Z75 w1605780659
+Z76 8C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_1.v
+Z77 FC:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_1.v
+L0 3
+R8
+r1
+31
+Z78 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_1.v|
+R10
+Z79 n@register_1
+Z80 !s108 1606674019.977000
+Z81 !s107 C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegister_3
+Z82 !s100 Pl6i5OJKaK2TLEU8YBLae3
+Z83 I@>lmF=DF17=UR]gmzXb9b1
+Z84 V?K@eaI51Cc]^9@<8Kb:e^0
+R4
+Z85 w1605790490
+Z86 8C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_3.v
+Z87 FC:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_3.v
+L0 3
+R8
+r1
+31
+Z88 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_3.v|
+R10
+Z89 n@register_3
+Z90 !s108 1606674021.092000
+Z91 !s107 C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_3.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegister_4
+Z92 !s100 CDmjW=GJ4BN4VHCI4jdYZ3
+Z93 I[0ZTT<GVYKDEhkEkbgVf63
+Z94 VKC;O8>ZaHCL:ZEZTXETz20
+R4
+Z95 w1605788244
+Z96 8C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_4.v
+Z97 FC:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_4.v
+L0 3
+R8
+r1
+31
+Z98 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_4.v|
+R10
+Z99 n@register_4
+Z100 !s108 1606674020.845000
+Z101 !s107 C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_4.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegister_8
+Z102 !s100 n>bcnoW:iJaLY]ZQlWcXD1
+Z103 I8SbTJefbDN]`cO8C]l:PC2
+Z104 VZCKP8k5KY[Na^fTo75Z8K2
+R4
+Z105 w1605785628
+Z106 8C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_8.v
+Z107 FC:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_8.v
+L0 3
+R8
+r1
+31
+Z108 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_8.v|
+R10
+Z109 n@register_8
+Z110 !s108 1606674020.625000
+Z111 !s107 C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vShift
+Z112 !s100 Yme=9CkHA;Pkd>F6kf7Ao0
+Z113 I=`P2TR]eUd5XKe2oKFeV_1
+Z114 VRR>cLRNL:feL9I9YH?2<;1
+R4
+Z115 w1605803877
+Z116 8C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Shift.v
+Z117 FC:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Shift.v
+L0 3
+R8
+r1
+31
+Z118 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Shift.v|
+R10
+Z119 n@shift
+Z120 !s108 1606674020.516000
+Z121 !s107 C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Shift.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestBench
+Z122 IC]M7_lH[Z^eC0f1ZGG:=j0
+Z123 VH;VS]59WmQ>4a<zRibM9Z0
+R4
+Z124 w1606674016
+Z125 8C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/TestBench.v
+Z126 FC:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/TestBench.v
+L0 2
+R8
+r1
+31
+Z127 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/TestBench.v|
+R10
+Z128 n@test@bench
+!i10b 1
+Z129 !s100 Lm8JR5<>:iH0>]a?e:MZd1
+!s85 0
+Z130 !s108 1606674021.291000
+Z131 !s107 C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/TestBench.v|
+!s101 -O0

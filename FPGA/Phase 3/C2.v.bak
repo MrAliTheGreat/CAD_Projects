@@ -1,0 +1,10 @@
+`timescale 1ns/1ns
+
+module C2(input D00 , D01 , D10 , D11 , A1 , B1 , A0 , B0 , output out);
+  wire F1 , F2;
+  assign F1 = SA ? A1 : A0;
+  assign F2 = SB ? B1 : B0;
+  assign F = (S0 | S1) ? F2 : F1;
+  
+endmodule
+

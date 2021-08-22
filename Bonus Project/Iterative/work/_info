@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vIterativeFib
+Z1 !s100 MYH3GYhL1206J8[7UUMPO3
+Z2 IRR0Nj898h_9JF0JPJ6RcD1
+Z3 VVeILojC6LYU>PN]aaK:]32
+Z4 dC:\Users\rasou\Desktop\CAD\Take Home\Iterative
+Z5 w1610981987
+Z6 8C:/Users/rasou/Desktop/CAD/Take Home/Iterative/Iterative.v
+Z7 FC:/Users/rasou/Desktop/CAD/Take Home/Iterative/Iterative.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Take Home/Iterative/Iterative.v|
+Z10 o-work work -O0
+Z11 n@iterative@fib
+!i10b 1
+!s85 0
+Z12 !s108 1610989418.378000
+Z13 !s107 C:/Users/rasou/Desktop/CAD/Take Home/Iterative/Iterative.v|
+!s101 -O0
+vRegister_11
+Z14 !s100 =W2a1Z:ng1jJli@>E7PbQ2
+Z15 I@KDJ<FVTAY0]mczOehjRB1
+Z16 VSGBmoQI8h6WZ_O]B`:1:[1
+R4
+Z17 w1610979792
+Z18 8C:/Users/rasou/Desktop/CAD/Take Home/Iterative/Reg11.v
+Z19 FC:/Users/rasou/Desktop/CAD/Take Home/Iterative/Reg11.v
+L0 3
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Take Home/Iterative/Reg11.v|
+R10
+Z21 n@register_11
+Z22 !s108 1610981559.778000
+Z23 !s107 C:/Users/rasou/Desktop/CAD/Take Home/Iterative/Reg11.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestBench
+!i10b 1
+Z24 !s100 Ni`Toj<kbCW0DzG95<oJB1
+Z25 Iz^aL4l5=AHCW038cbS3412
+Z26 VH;VS]59WmQ>4a<zRibM9Z0
+R4
+w1610989409
+Z27 8C:/Users/rasou/Desktop/CAD/Take Home/Iterative/TestBench.v
+Z28 FC:/Users/rasou/Desktop/CAD/Take Home/Iterative/TestBench.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1610989418.501000
+!s107 C:/Users/rasou/Desktop/CAD/Take Home/Iterative/TestBench.v|
+Z29 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Take Home/Iterative/TestBench.v|
+!s101 -O0
+R10
+Z30 n@test@bench

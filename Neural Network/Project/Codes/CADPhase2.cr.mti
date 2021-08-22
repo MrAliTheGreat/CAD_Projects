@@ -1,0 +1,168 @@
+{C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Neurons.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Neurons.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Neurons
+
+Top level modules:
+	Neurons
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/neuron_LUT.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/neuron_LUT.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module neuron_LUT
+
+Top level modules:
+	neuron_LUT
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/WeightsMemory.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/WeightsMemory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module WeightsMemory_Hidden
+-- Compiling module WeightsMemory_Output
+
+Top level modules:
+	WeightsMemory_Hidden
+	WeightsMemory_Output
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/accumulator_reg.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/accumulator_reg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module accumulator_reg
+
+Top level modules:
+	accumulator_reg
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/HiddenRegs.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/HiddenRegs.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HiddenRegs
+
+Top level modules:
+	HiddenRegs
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/eight_bit_multiplier.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/eight_bit_multiplier.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module eight_bit_multiplier
+
+Top level modules:
+	eight_bit_multiplier
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Reg_8.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Reg_8.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg_8
+
+Top level modules:
+	Reg_8
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/two_bit_multiplier.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/two_bit_multiplier.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module two_bit_multiplier
+
+Top level modules:
+	two_bit_multiplier
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/multiplier_ip.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/multiplier_ip.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multiplier_ip
+
+Top level modules:
+	multiplier_ip
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/BiasMemory.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/BiasMemory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BiasMemory_Hidden
+-- Compiling module BiasMemory_Output
+
+Top level modules:
+	BiasMemory_Hidden
+	BiasMemory_Output
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/adder.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/adder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/MemoriesTestBench.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/MemoriesTestBench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MemoriesTestBench
+
+Top level modules:
+	MemoriesTestBench
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Circuit.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Circuit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Circuit
+
+Top level modules:
+	Circuit
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/DataMemory.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/DataMemory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMemory
+-- Compiling module DataMem
+
+Top level modules:
+	DataMemory
+	DataMem
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/input_select_module.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/input_select_module.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module input_select_module
+
+Top level modules:
+	input_select_module
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/controller.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/controller.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/neuron_ip.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/neuron_ip.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module neuron_ip
+
+Top level modules:
+	neuron_ip
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/CircuitController.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/CircuitController.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CircuitController
+
+Top level modules:
+	CircuitController
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Datapath.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Datapath.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/activation_function.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/activation_function.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module activation_function
+
+Top level modules:
+	activation_function
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/four_bit_multiplier.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/four_bit_multiplier.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module four_bit_multiplier
+
+Top level modules:
+	four_bit_multiplier
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/ArgMax.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/ArgMax.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ArgMax
+
+Top level modules:
+	ArgMax
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/TB_Circuit.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/TB_Circuit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB_Circuit
+
+Top level modules:
+	TB_Circuit
+
+} {} {}}

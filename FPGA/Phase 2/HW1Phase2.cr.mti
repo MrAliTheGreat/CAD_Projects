@@ -1,0 +1,92 @@
+{C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Shift.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Shift.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Shift
+
+Top level modules:
+	Shift
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_1.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_1
+
+Top level modules:
+	Register_1
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_3.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_3.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_3
+
+Top level modules:
+	Register_3
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_4.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_4.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_4
+
+Top level modules:
+	Register_4
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Controller.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Controller.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_8.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/reg_8.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_8
+
+Top level modules:
+	Register_8
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Datapath.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Datapath.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Adder_8.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Adder_8.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder_8
+
+Top level modules:
+	Adder_8
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/TestBench.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/TestBench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Multiplier_2.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Multiplier_2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Multiplier_2
+
+Top level modules:
+	Multiplier_2
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Mux_1.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Mux_1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX_2to1
+
+Top level modules:
+	MUX_2to1
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/FullAdder_1.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/FullAdder_1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FullAdder
+
+Top level modules:
+	FullAdder
+
+} {} {}} {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Circuit.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CAD/Homeworks/HW1 Phase 2/Circuit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Circuit
+
+Top level modules:
+	Circuit
+
+} {} {}}

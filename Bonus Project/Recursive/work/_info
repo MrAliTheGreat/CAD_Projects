@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\rasou\Desktop\CAD\Take Home\Iterative
+vRecursive
+Z1 I<:SVRl2kQMEaTQPg4?0GH3
+Z2 VSI=FIQ1GO`P_fM820LbUo1
+Z3 dC:\Users\rasou\Desktop\CAD\Take Home\Recursive
+Z4 w1610989326
+Z5 8C:/Users/rasou/Desktop/CAD/Take Home/Recursive/Recursive.v
+Z6 FC:/Users/rasou/Desktop/CAD/Take Home/Recursive/Recursive.v
+L0 3
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Take Home/Recursive/Recursive.v|
+Z9 o-work work -O0
+Z10 n@recursive
+!i10b 1
+Z11 !s100 hD>@7I64nRAd?LO<::K6_3
+!s85 0
+Z12 !s108 1610989333.824000
+Z13 !s107 C:/Users/rasou/Desktop/CAD/Take Home/Recursive/Recursive.v|
+!s101 -O0
+vStack
+Z14 !s100 UF3KjmJ4L4_QU@<57D^:D2
+Z15 IKDD0zUTAojWNV`agKm5O=0
+Z16 Vh34TN<6U6H6dPe=73TjAW3
+R3
+Z17 w1610985595
+Z18 8C:/Users/rasou/Desktop/CAD/Take Home/Recursive/Stack.v
+Z19 FC:/Users/rasou/Desktop/CAD/Take Home/Recursive/Stack.v
+L0 3
+R7
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Take Home/Recursive/Stack.v|
+R9
+Z21 n@stack
+Z22 !s108 1610989333.621000
+Z23 !s107 C:/Users/rasou/Desktop/CAD/Take Home/Recursive/Stack.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vStackTestBench
+Z24 !s100 fl_eLkH0D^WVVHAO:]>YL2
+Z25 IlQRQTXIeAc0AOY8aoD<8i2
+Z26 VI0jB2IlOH0X[g5f`QL9PA2
+R3
+Z27 w1610983883
+Z28 8C:/Users/rasou/Desktop/CAD/Take Home/Recursive/StackTestBench.v
+Z29 FC:/Users/rasou/Desktop/CAD/Take Home/Recursive/StackTestBench.v
+L0 3
+R7
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Take Home/Recursive/StackTestBench.v|
+R9
+Z31 n@stack@test@bench
+Z32 !s108 1610989333.722000
+Z33 !s107 C:/Users/rasou/Desktop/CAD/Take Home/Recursive/StackTestBench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestBenchRecursive
+!i10b 1
+Z34 !s100 A[@6df4kEMR63ej=Z18E=0
+Z35 I1mlNYbnzdljXFQ8<cCm5B2
+Z36 VnXzoCoJRk5o<K;oNA1Y;72
+R3
+Z37 w1610989035
+Z38 8C:/Users/rasou/Desktop/CAD/Take Home/Recursive/TestBenchRecursive.v
+Z39 FC:/Users/rasou/Desktop/CAD/Take Home/Recursive/TestBenchRecursive.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1610989333.931000
+!s107 C:/Users/rasou/Desktop/CAD/Take Home/Recursive/TestBenchRecursive.v|
+Z40 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Take Home/Recursive/TestBenchRecursive.v|
+!s101 -O0
+R9
+Z41 n@test@bench@recursive

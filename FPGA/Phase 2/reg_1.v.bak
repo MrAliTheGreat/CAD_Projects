@@ -1,0 +1,9 @@
+`timescale 1ns/1ns
+
+module Register_1(input clk , rst , load , input in , output reg out);
+  always @ (posedge clk , posedge rst) begin
+    if(rst) Q <= 1'b0;
+    else
+      if(load) Q <= serIn;
+  end
+endmodule

@@ -1,0 +1,35 @@
+# Compile of Iterative.v was successful.
+# Compile of TestBench.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of Iterative.v was successful.
+# Compile of TestBench.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui work.TestBench
+# vsim -gui work.TestBench 
+# Loading work.TestBench
+# Loading work.IterativeFib
+add wave -position insertpoint  \
+sim:/TestBench/start \
+sim:/TestBench/ready \
+sim:/TestBench/out \
+sim:/TestBench/n \
+sim:/TestBench/clk
+run -all
+# Break in Module TestBench at C:/Users/rasou/Desktop/CAD/Take Home/Iterative/TestBench.v line 18
+# Compile of Iterative.v was successful.
+# Compile of TestBench.v was successful.
+# 2 compiles, 0 failed with no errors. 
+restart -f
+# Loading work.TestBench
+# Loading work.IterativeFib
+run -all
+# Break in Module TestBench at C:/Users/rasou/Desktop/CAD/Take Home/Iterative/TestBench.v line 18
+# Compile of Iterative.v was successful.
+# Compile of TestBench.v was successful.
+# 2 compiles, 0 failed with no errors. 
+restart -f
+# Loading work.TestBench
+# Loading work.IterativeFib
+run -all
+# Break in Module TestBench at C:/Users/rasou/Desktop/CAD/Take Home/Iterative/TestBench.v line 18
+quit -sim

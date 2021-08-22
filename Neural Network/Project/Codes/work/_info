@@ -1,0 +1,515 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\rasou\Desktop\CAD\Take Home\Iterative
+vaccumulator_reg
+Z1 !s100 kDSi:B:gnhaB:KE6j@fMY0
+Z2 IS98A9CTebfEV3J9=9kB3A0
+Z3 VbM=Ni0[Xac36Sk5THC[?d0
+Z4 dC:\Users\rasou\Desktop\CAD\Project\Phase 2\Codes
+Z5 w1611765494
+Z6 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/accumulator_reg.v
+Z7 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/accumulator_reg.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/accumulator_reg.v|
+Z10 o-work work -O0
+Z11 !s108 1611863306.229000
+Z12 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/accumulator_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vactivation_function
+Z13 !s100 m8Gci?d53EGdQ_f4n4??X2
+Z14 IbQlbg[2<A]ZZRlMF7JJXK0
+Z15 V2HAooeWM;`ZH92`EB`OiR0
+R4
+Z16 w1611831649
+Z17 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/activation_function.v
+Z18 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/activation_function.v
+L0 3
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/activation_function.v|
+R10
+Z20 !s108 1611863306.419000
+Z21 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/activation_function.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vadder
+Z22 !s100 2Md3zg@ZPMBh`8HoXZlbL3
+Z23 I=217V^gNAY[cmbMQa:jZQ3
+Z24 VJjooSkVg?SU[GTGVV?dPY2
+R4
+Z25 w1609001201
+Z26 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/adder.v
+Z27 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/adder.v
+L0 3
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/adder.v|
+R10
+Z29 !s108 1611863306.560000
+Z30 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vArgMax
+Z31 !s100 0jaGB9XO2N2FeIW4<0ag70
+Z32 I<QFedN2Jzf7kkmAg_0zoF3
+Z33 Vg@gTFgnCJY80^8XHOGOPU2
+R4
+Z34 w1611830794
+Z35 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/ArgMax.v
+Z36 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/ArgMax.v
+L0 3
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/ArgMax.v|
+R10
+Z38 n@arg@max
+Z39 !s108 1611863307.809000
+Z40 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/ArgMax.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vBiasMemory_Hidden
+Z41 !s100 5IiDf0:VRUzXi6gLn=bJE3
+Z42 I8SXUdc`MC@nLG4VQ:AGDF1
+Z43 VeXJRhBF>GZeBc[b>GY:Ja1
+R4
+Z44 w1611754902
+Z45 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/BiasMemory.v
+Z46 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/BiasMemory.v
+L0 3
+R8
+r1
+31
+Z47 !s108 1611863305.499000
+Z48 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/BiasMemory.v|
+Z49 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/BiasMemory.v|
+R10
+Z50 n@bias@memory_@hidden
+!i10b 1
+!s85 0
+!s101 -O0
+vBiasMemory_Output
+Z51 !s100 ?c1z:<Ccn45E]Q1fe>2O00
+Z52 IH=@dG_`1hcnc4VFJn_hZU1
+Z53 V?YbchaN@]WOCHSQgSR[^]1
+R4
+R44
+R45
+R46
+L0 22
+R8
+r1
+31
+R47
+R48
+R49
+R10
+Z54 n@bias@memory_@output
+!i10b 1
+!s85 0
+!s101 -O0
+vCircuit
+Z55 !s100 In:8J2Y[M;KfA2o7==g4j1
+Z56 I5P5OHiz^OXHLi7A;LFBn?3
+Z57 V32ZofDEhoJFM0R:JgWjLm1
+R4
+Z58 w1611752626
+Z59 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Circuit.v
+Z60 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Circuit.v
+L0 3
+R8
+r1
+31
+Z61 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Circuit.v|
+R10
+Z62 n@circuit
+!i10b 1
+!s85 0
+Z63 !s108 1611863307.944000
+Z64 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Circuit.v|
+!s101 -O0
+vCircuitController
+Z65 !s100 `>SUJ6l<^7noCJ2JojGab3
+Z66 Ii=:DH<6eai6o0dB[3RjB?0
+Z67 VD4kTM1b`4kL;AD<<ReaD81
+R4
+Z68 w1611774358
+Z69 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/CircuitController.v
+Z70 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/CircuitController.v
+L0 3
+R8
+r1
+31
+Z71 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/CircuitController.v|
+R10
+Z72 n@circuit@controller
+Z73 !s108 1611863307.684000
+Z74 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/CircuitController.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+Z75 !s100 WBFmD<zVBSizKP[0Wi:K>3
+Z76 IBFJH7l_Eh9;^MTkn3Ykeh3
+Z77 VJ3fiV?`eRV<=GloZ>G?1Z2
+R4
+Z78 w1611609825
+Z79 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/controller.v
+Z80 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/controller.v
+L0 3
+R8
+r1
+31
+Z81 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/controller.v|
+R10
+Z82 !s108 1611863306.684000
+Z83 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDataMem
+Z84 !s100 GRbF5OQkfDK45[]FH>d1a3
+Z85 IQ_cK>>d75BhT?i0gb>e2>0
+Z86 VaYaYRkEjz;X7dGB6^F[X02
+R4
+Z87 w1611830804
+Z88 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/DataMemory.v
+Z89 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/DataMemory.v
+L0 21
+R8
+r1
+31
+Z90 !s108 1611863305.149000
+Z91 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/DataMemory.v|
+Z92 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/DataMemory.v|
+R10
+Z93 n@data@mem
+!i10b 1
+!s85 0
+!s101 -O0
+vDataMemory
+Z94 !s100 ah3?k6]Rf7HWXhANai^]C0
+Z95 IS0kFdz_:[=a8oGbH^J;^n3
+Z96 Vo`mCC:M]d^SHN^9YNe5bz3
+R4
+R87
+R88
+R89
+L0 3
+R8
+r1
+31
+R90
+R91
+R92
+R10
+Z97 n@data@memory
+!i10b 1
+!s85 0
+!s101 -O0
+vDatapath
+Z98 !s100 k<h^=je_2YW=K8X6dbjbZ3
+Z99 IbXQ]2gfzkT68C>o3]L^ON3
+Z100 V]VDXzfmX6in;F<B?4Q2S23
+R4
+Z101 w1611828267
+Z102 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Datapath.v
+Z103 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Datapath.v
+L0 3
+R8
+r1
+31
+Z104 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Datapath.v|
+R10
+Z105 n@datapath
+Z106 !s108 1611863305.020000
+Z107 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+veight_bit_multiplier
+Z108 !s100 =57__CC<MS4]g_OMXkJPO0
+Z109 I90mPjB;W08OJW9@bb`e^d2
+Z110 V@]LUc16kFZ2Rh<mOmXVlY0
+R4
+Z111 w1609001388
+Z112 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/eight_bit_multiplier.v
+Z113 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/eight_bit_multiplier.v
+L0 3
+R8
+r1
+31
+Z114 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/eight_bit_multiplier.v|
+R10
+Z115 !s108 1611863306.810000
+Z116 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/eight_bit_multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfour_bit_multiplier
+Z117 !s100 ?Z^kRziB[Q_kb3n>k<N<N2
+Z118 Im]BO2Qd2hN2Go8Ni^F5>L3
+Z119 VhXYhTSNzObTD_[k]A>gEM1
+R4
+Z120 w1609001349
+Z121 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/four_bit_multiplier.v
+Z122 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/four_bit_multiplier.v
+L0 3
+R8
+r1
+31
+Z123 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/four_bit_multiplier.v|
+R10
+Z124 !s108 1611863306.939000
+Z125 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/four_bit_multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHiddenRegs
+Z126 !s100 kdh;?`[>C9^^9g1eD994@2
+Z127 IY[8T^kaF<S0FaSoU7DC9Y2
+Z128 VUUPm<czoU][I>5J4OZ0N<0
+R4
+Z129 w1611602700
+Z130 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/HiddenRegs.v
+Z131 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/HiddenRegs.v
+L0 3
+R8
+r1
+31
+Z132 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/HiddenRegs.v|
+R10
+Z133 n@hidden@regs
+Z134 !s108 1611863305.929000
+Z135 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/HiddenRegs.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vinput_select_module
+Z136 !s100 EVOPYA@5QWbcon9PIO=Wf2
+Z137 IDjcDEV[@Nfl4O`_f0]]6`3
+Z138 V2HWOU;ZKU`Ve9ZFmKRLEB3
+R4
+Z139 w1611754355
+Z140 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/input_select_module.v
+Z141 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/input_select_module.v
+L0 3
+R8
+r1
+31
+Z142 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/input_select_module.v|
+R10
+Z143 !s108 1611863307.059000
+Z144 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/input_select_module.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMemoriesTestBench
+Z145 !s100 gZ_AeNgn>?9KRZ@N?d>fl3
+Z146 I9@?j1Yhe5kKml1Dm2MGz91
+Z147 V2gK8=2^nBWCDKkZBa6dzW1
+R4
+Z148 w1611330040
+Z149 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/MemoriesTestBench.v
+Z150 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/MemoriesTestBench.v
+L0 3
+R8
+r1
+31
+Z151 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/MemoriesTestBench.v|
+R10
+Z152 n@memories@test@bench
+Z153 !s108 1611863305.669000
+Z154 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/MemoriesTestBench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmultiplier_ip
+Z155 !s100 X>Hmlfo9FTSS=Bc3MPA`01
+Z156 In?YMa7CO7_Y8m^MeMBAOZ2
+Z157 V7enOnbP^?Sn67SX^D]zaH0
+R4
+Z158 w1611758622
+Z159 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/multiplier_ip.v
+Z160 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/multiplier_ip.v
+L0 3
+R8
+r1
+31
+Z161 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/multiplier_ip.v|
+R10
+Z162 !s108 1611863307.199000
+Z163 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/multiplier_ip.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vneuron_ip
+Z164 !s100 :OEbO`@MPAQM8?eJ?jiN@3
+Z165 IgX6>NNBBOHI<DjflBoj9b2
+Z166 Vd7l3iPImH2<bEkCb2=F7O1
+R4
+Z167 w1611777608
+Z168 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/neuron_ip.v
+Z169 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/neuron_ip.v
+L0 3
+R8
+r1
+31
+Z170 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/neuron_ip.v|
+R10
+Z171 !s108 1611863307.319000
+Z172 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/neuron_ip.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vneuron_LUT
+Z173 !s100 Pc]8GWOHLD165Xn6?L4F?1
+Z174 IgQoz^^kz:hL@a<Do7]FVE1
+Z175 V53B;Pa8<nQJLz0;IIc`[<2
+R4
+Z176 w1611600400
+Z177 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/neuron_LUT.v
+Z178 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/neuron_LUT.v
+L0 3
+R8
+r1
+31
+Z179 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/neuron_LUT.v|
+R10
+Z180 nneuron_@l@u@t
+Z181 !s108 1611863307.444000
+Z182 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/neuron_LUT.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vNeurons
+Z183 !s100 5ThT^DlfNno=<R0^O08Bd3
+Z184 IQ?SY9E`[Ck3CkF0^i2A5b3
+Z185 VNabX4ZdbTeb`3W4el]kjh0
+R4
+Z186 w1611775794
+Z187 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Neurons.v
+Z188 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Neurons.v
+L0 3
+R8
+r1
+31
+Z189 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Neurons.v|
+R10
+Z190 n@neurons
+Z191 !s108 1611863305.790000
+Z192 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Neurons.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg_8
+Z193 !s100 kRSV2Nn<b:l]QMiH531`50
+Z194 I37j;iQiUUTU>^8>5V[Wi?3
+Z195 V_CEN:P=>SY^5znNmBgzQ11
+R4
+Z196 w1611331725
+Z197 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Reg_8.v
+Z198 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Reg_8.v
+L0 3
+R8
+r1
+31
+Z199 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Reg_8.v|
+R10
+Z200 n@reg_8
+Z201 !s108 1611863306.079000
+Z202 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/Reg_8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTB_Circuit
+!i10b 1
+!s100 Mg>5j^YzM_<_]bkY2cl9;3
+I`AVoC@Kkj]TTeOz[3E;9[1
+Z203 V4o;Ek6:Lc52A[P_W_FSjG2
+R4
+w1611863301
+Z204 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/TB_Circuit.v
+Z205 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/TB_Circuit.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1611863308.069000
+!s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/TB_Circuit.v|
+Z206 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/TB_Circuit.v|
+!s101 -O0
+R10
+Z207 n@t@b_@circuit
+vtwo_bit_multiplier
+Z208 !s100 02ooAoYh3l>876e33Y<fk3
+Z209 IW:m<G37WNj:3z?ngMQif?2
+Z210 VUP@?ABAnWhWe28angYG7=3
+R4
+Z211 w1609001618
+Z212 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/two_bit_multiplier.v
+Z213 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/two_bit_multiplier.v
+L0 3
+R8
+r1
+31
+Z214 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/two_bit_multiplier.v|
+R10
+Z215 !s108 1611863307.559000
+Z216 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/two_bit_multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vWeightsMemory_Hidden
+Z217 !s100 kPl;GeQEUiB0TNZ]XPDdd2
+Z218 IPTYZ4K`66beOI8]bA@AY@3
+Z219 VOggh5>FL<5@Bo0MzK5l@U1
+R4
+Z220 w1611827929
+Z221 8C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/WeightsMemory.v
+Z222 FC:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/WeightsMemory.v
+L0 3
+R8
+r1
+31
+Z223 !s108 1611863305.330000
+Z224 !s107 C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/WeightsMemory.v|
+Z225 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CAD/Project/Phase 2/Codes/WeightsMemory.v|
+R10
+Z226 n@weights@memory_@hidden
+!i10b 1
+!s85 0
+!s101 -O0
+vWeightsMemory_Output
+Z227 !s100 kB<X5M@RO>afJ0WozKh6b2
+Z228 IYUOdW4EgOB?A9]=MFPmIk1
+Z229 VYQ@BN64]0[1>VfLVWMA<73
+R4
+R220
+R221
+R222
+L0 22
+R8
+r1
+31
+R223
+R224
+R225
+R10
+Z230 n@weights@memory_@output
+!i10b 1
+!s85 0
+!s101 -O0
